@@ -124,4 +124,3 @@ section {
     width: 83.33%;
   }
   .col-lg-11 {
-<td id="gmail-L129" class="gmail-blob-num gmail-js-line-number" style="box-sizing:border-box;padding:0px 10px;width:50.4px;min-width:50px;font-family:SFMono-Regular,Consolas,"Liberation Mono",Menlo,monospace;font-size:12px;line-height:20px;color:rgba(27,31,35,0.3);text-align:right;white-space:nowrap
